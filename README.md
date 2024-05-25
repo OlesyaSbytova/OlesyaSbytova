@@ -1,6 +1,6 @@
 # Приветствую, меня зовут Олеся! 👋
 
-Я начинающий **Системный аналитик** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Я начинающий **Системный аналитик** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 ---
 ## :woman_technologist: Обо мне:
 
@@ -46,14 +46,14 @@ pluntuml, planttext, draw.io, camunda, swagger
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | Системный аналитик с нуля до middle                             | 04/2023 - 05/2024 |
-| [Свидетельство об обучении]()                                   |                   |
+| [Свидетельство об обучении](Portfolio/Certificates/Свидетельство об обучении.pdf at main · OlesyaSbytova/Portfolio (github.com))                                   |                   |
 
 [Программа курса](https://github.com/OlesyaSbytova/Portfolio/blob/main/Certificates/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_SystemAnalyst_middle.pdf)
 
 Сертификаты по пройденным модулям курса находятся [здесь](https://github.com/OlesyaSbytova/Portfolio/tree/main/Certificates)                    
 
 Мои домашние работы:
-- [Итоговая работа]()
+- [Итоговая работа](https://github.com/OlesyaSbytova/Portfolio/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9C%D0%9F_%D0%9A%D0%A0%D0%91.pdf)
 - [1_Интервью с заказчиком](https://github.com/OlesyaSbytova/Portfolio/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/1_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E%20%D1%81%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA%D0%BE%D0%BC_Miro.pdf)
 - [2_Требования_UserStories](https://github.com/OlesyaSbytova/Portfolio/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/2_%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_UserStories.pdf)
 - [3_UML Diagrams_UseCase Описание](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FOlesyaSbytova%2FPortfolio%2Fmain%2F%25D0%2597%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D1%258F%2F3_UML_ActivityPluntuml_ClassPlanttext_UseCase_draw.io_UseCase%25D0%259E%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5.docx&wdOrigin=BROWSELINK)
